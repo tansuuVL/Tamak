@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Card   */
+
+.input {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #e3e3e3;
+}

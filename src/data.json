@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "id": 5555555555554444,
+      "cvc": 391,
+      "expiry": "12 / 31",
+      "bill": 9999999
+    }
+  ],
+  "users": [],
+  "breakfast": [
+    {
+      "id": 1,
+      "title": "Яичница",
+      "price": 100,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aE83MxwfKO2fTX3bRb3eI1keWozbhDId6w&usqp=CAU",
+      "ingredients": [
+        "Яйцо",
+        "соль",
+        "масло"
+      ]
+    }
+  ],
+  "lunch": [
+    {
+      "id": 1,
+      "title": "Лагман",
+      "price": 250,
+      "image": null,
+      "ingredients": [
+        "Лапша",
+        "Крахмал"
+      ]
+    }
+  ],
+  "dinner": [
+    {
+      "id": 1,
+      "title": "Кебаб",
+      "price": 120,
+      "image": null,
+      "ingredients": [
+        "Говядина",
+        "соль",
+        "Cоус"
+      ]
+    }
+  ],
+  "snakes": [
+    {
+      "id": 1,
+      "title": "Йогурт",
+      "price": 45,
+      "image": null,
+      "ingredients": [
+        "Йогурт"
+      ]
+    }
+  ]
+}
